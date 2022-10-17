@@ -1,4 +1,4 @@
-# app-web-Ecommerce
+# App-web-Ecommerce
 Notre projet consiste à créer une application web shopping en ligne. En
 effet, cette application offre à l’administrateur l’opportunité de faire la
 publicité de ses produits en ligne à travers un accès web, explorer le
@@ -6,8 +6,11 @@ catalogue pour les visiteurs, et de passer les commandes pour les clients.
 D’une autre part, l’administrateur du site peut effectuer plusieurs
 fonctions telles que la modification du produit, l’ajout des fournisseurs et
 des catégories.
-#Réalisation
+
+Réalisation
+
 Partie administrateur:
+
    1.Page d’authentification
    ![image](https://user-images.githubusercontent.com/98094518/196182193-7aa38800-3f69-42db-b5da-1efae514945b.png)
 
